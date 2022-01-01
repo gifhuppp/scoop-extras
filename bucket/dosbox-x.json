@@ -1,17 +1,17 @@
 {
-    "version": "0.83.20",
+    "version": "0.83.21",
     "description": "Fork of DOSBox, an Intel x86-based PC emulator, complete with sound, graphics, mouse, joystick, modem, etc.",
     "homepage": "https://dosbox-x.com",
     "license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/joncampbell123/dosbox-x/releases/download/dosbox-x-v0.83.20/dosbox-x-vsbuild-win64-20211130230328.zip",
-            "hash": "200c278b21ef280d36e4549bd2da13f119a92d24cf18bcf0a187357192d74b44",
+            "url": "https://github.com/joncampbell123/dosbox-x/releases/download/dosbox-x-v0.83.21/dosbox-x-vsbuild-win64-20211231200702.zip",
+            "hash": "5d8587e307fda264dafed029c974b201c848e27a94c8aecf2395fe482261319a",
             "extract_dir": "bin\\x64\\Release SDL2"
         },
         "32bit": {
-            "url": "https://github.com/joncampbell123/dosbox-x/releases/download/dosbox-x-v0.83.20/dosbox-x-vsbuild-win32-20211130230328.zip",
-            "hash": "b9ef09f5d45e26b373c41ab19e2dc9a8d474422e7df1960e6b235f4e6bf3e7cb",
+            "url": "https://github.com/joncampbell123/dosbox-x/releases/download/dosbox-x-v0.83.21/dosbox-x-vsbuild-win32-20211231200702.zip",
+            "hash": "b12b4fa53519aca930ad3c8645205eae9ef5180a9b3b416d940da4983d7e813c",
             "extract_dir": "bin\\Win32\\Release SDL2"
         }
     },

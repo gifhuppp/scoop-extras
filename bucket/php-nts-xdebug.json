@@ -1,5 +1,5 @@
 {
-    "version": "3.1.3-8.0",
+    "version": "3.1.4-8.0",
     "description": "An extension for PHP to assist with debugging and development. (Non-Thread Safe)",
     "homepage": "https://xdebug.org/",
     "license": {
@@ -12,12 +12,12 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://xdebug.org/files/php_xdebug-3.1.3-8.0-vs16-nts-x86_64.dll#/php_xdebug.dll",
-            "hash": "12e6104eacadecfdb5be8fac0792a8cb9ab2954325e9a18dd7abd02f395ae00a"
+            "url": "https://xdebug.org/files/php_xdebug-3.1.4-8.0-vs16-nts-x86_64.dll#/php_xdebug.dll",
+            "hash": "0cf9c0909305bd003822abde9a8103d37bbc3a155c88376b5b3ac455ae097cbd"
         },
         "32bit": {
-            "url": "https://xdebug.org/files/php_xdebug-3.1.3-8.0-vs16-nts.dll#/php_xdebug.dll",
-            "hash": "38db87eabde745961f10bbacf176402b911643a62f994b521a49b91014668fcd"
+            "url": "https://xdebug.org/files/php_xdebug-3.1.4-8.0-vs16-nts.dll#/php_xdebug.dll",
+            "hash": "1abb440bc5b8eefc70933d446b6119cefd0b6bd3ff9eddbc203bae54d4086622"
         }
     },
     "post_install": [
